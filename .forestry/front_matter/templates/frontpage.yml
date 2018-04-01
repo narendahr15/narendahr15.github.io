@@ -1,3 +1,7 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: first_post
+  label: First Post
+  description: My First Post
