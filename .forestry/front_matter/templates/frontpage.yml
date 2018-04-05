@@ -1,8 +1,0 @@
----
-hide_body: false
-fields:
-- type: text
-  name: first_post
-  label: First Post
-  description: My First Post
-  default: Testing my first post
